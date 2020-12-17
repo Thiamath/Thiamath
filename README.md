@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Thiamath GH stats](https://github-readme-stats.vercel.app/api?username=thiamath&show_icons=true&theme=dark)
+![Thiamath GH stats](https://github-readme-stats.vercel.app/api?username=thiamath&show_icons=true&theme=dark&bg_color=161b22)
 
 
 <!--
